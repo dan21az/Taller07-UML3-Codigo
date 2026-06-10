@@ -9,4 +9,8 @@ public class PersonalAcademico extends Usuario{
     public void solicitarAsesoriamientoDelSistema(String email, String contenido){};
     public void comentarEnForo(Foro foro, String comentario){};
 
+    public ArrayList<Incidente> getIncidentes() {
+        return incidentes;
+    }
+
 }

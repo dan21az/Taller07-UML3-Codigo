@@ -1,3 +1,4 @@
+package Codigo;
 public class Foro {
 
     private String id;
