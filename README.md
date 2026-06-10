@@ -9,3 +9,4 @@ El diagrama de secuencias del primer caso de uso (Reportar problemas del sistema
 
 El diagrama de secuencias del segundo caso de uso (Aprobar el curso) es: 
 
+<img width="814" height="771" alt="Untitled" src="https://github.com/user-attachments/assets/99107c44-99ad-442c-a713-9ebfe8710826" />
